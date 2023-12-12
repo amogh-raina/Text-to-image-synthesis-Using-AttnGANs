@@ -1,1 +1,1 @@
-# Text-to-image-synthesis-Using-StackGAN-s-
+# Text-to-image-synthesis-Using-AttnGAN-s-
